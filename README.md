@@ -1,6 +1,7 @@
 # Clarivo AI
 
-![Clarivo AI](https://via.placeholder.com/800x200?text=Clarivo+AI)  
+![Clarivo AI](<img width="383" height="346" alt="image" src="https://github.com/user-attachments/assets/ea739b4d-6819-481f-b227-3c57eec5f36d" />
+)  
 
 **Clarivo AI** is an AI-powered platform designed to help students get the best answers to their questions quickly and efficiently. Whether it's homework, research, or general learning, Clarivo AI provides accurate, easy-to-understand responses.
 
